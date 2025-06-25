@@ -153,8 +153,11 @@ CALCULATOR/
 
 ## 🔗 Related Links
 
-* [🔗 LinkedIn Project Post](#) *(Insert link after uploading video/post)*
-* [📁 GitHub Repository](#) *(Insert repo link if hosted publicly)*
+* [🔗 LinkedIn Project Post](#)
+  (https://www.linkedin.com/posts/aman-kumar-singh-38552b312_webdevelopment-internshipproject-calculatorapp-activity-7343707743595229184-3gwC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE90ylUBwcjq8qH7XRyXcCi4NETuspeHCHw)
+  
+* [📁 GitHub Repository](#)
+https://github.com/aksgithub250502/CODSOFT/tree/main/CALCULATOR
 ---
 
 ## 👤 Author
