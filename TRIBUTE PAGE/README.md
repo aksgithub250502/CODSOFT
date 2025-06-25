@@ -84,6 +84,11 @@ CODESOFT/
 * Global impact on football and pop culture
 * Influence on youth and future generations
 
+### 🖼️ Gallery
+
+* A grid-based layout displaying iconic moments of Ronaldo’s career
+* Includes 3–6 images styled responsively
+
 ### 📩 Footer
 
 * Tribute message
@@ -126,7 +131,7 @@ This task helped me gain deeper understanding of:
 
 * **Internship Name:** CodSoft Web Development Internship
 * **Level:** 2
-* **Task:** 1 – Build a Scientific Calculator
+* **Task:** 1 – Build a TRIBUTE PAGE
 * **Intern:** Aman Kumar Singh
 ---
 
