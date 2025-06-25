@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Scientific Calculator</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="calculator">
+    <input type="text" class="display" id="display" value="0" />
+    <div class="buttons">
+      <!-- Row 1 -->
+      <button class="btn" data-func="(">(</button>
+      <button class="btn" data-func=")">)</button>
+      <button class="btn" data-func="mc">mc</button>
+      <button class="btn" data-func="m+">m+</button>
+      <button class="btn" data-func="m-">m-</button>
+      <button class="btn control" data-func="backspace">⌫</button>
+      <button class="btn control" data-func="C">C</button>
+      <button class="btn control" data-func="+/-">+/-</button>
+      <button class="btn control" data-func="%">%</button>
+      <button class="btn operator" data-func="/">÷</button>
+
+      <!-- Row 2 --> 
+      <button class="btn control" id="second-toggle" data-func="⇆">⇆</button>
+      <button class="btn" data-func="2ˣ">2ˣ</button>
+      <button class="btn" data-func="^">^</button>
+      <button class="btn" data-func="x^y">xʸ</button>
+      <button class="btn" data-func="exp">eˣ</button>
+      <button class="btn" data-func="10^x">10ˣ</button>
+      <button class="btn" data-func="7">7</button>
+      <button class="btn" data-func="8">8</button>
+      <button class="btn" data-func="9">9</button>
+      <button class="btn operator" data-func="*">×</button>
+
+      <!-- Row 3 -->
+      <button class="btn" data-func="1/x">1/x</button>
+      <button class="btn" data-func="√">√</button>
+      <button class="btn" data-func="∛">∛</button>
+      <button class="btn" data-func="^1/y">ʸ√x</button>
+      <button class="btn" data-func="ln">ln</button>
+      <button class="btn" data-func="log">log</button>
+      <button class="btn" data-func="4">4</button>
+      <button class="btn" data-func="5">5</button>
+      <button class="btn" data-func="6">6</button>
+      <button class="btn operator" data-func="-">−</button>
+
+      <!-- Row 4 -->
+      <button class="btn" data-func="x!">x!</button>
+      <button class="btn" data-func="sin">sin</button>
+      <button class="btn" data-func="cos">cos</button>
+      <button class="btn" data-func="tan">tan</button>
+      <button class="btn" data-func="e">e</button>
+      <button class="btn" data-func="EE">EE</button>
+      <button class="btn" data-func="1">1</button>
+      <button class="btn" data-func="2">2</button>
+      <button class="btn" data-func="3">3</button>
+      <button class="btn operator" data-func="+">+</button>
+
+      <!-- Row 5 -->
+      <button class="btn control" id="angle-toggle" data-func="RAD">RAD</button>
+      <button class="btn" data-func="sinh">sinh</button>
+      <button class="btn" data-func="cosh">cosh</button>
+      <button class="btn" data-func="tanh">tanh</button>
+      <button class="btn" data-func="π">π</button>
+      <button class="btn" data-func="Rand">Rand</button>
+      <button class="btn" data-func="0">0</button>
+      <button class="btn" data-func=".">.</button>
+      <button class="btn operator equal" data-func="=">=</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
