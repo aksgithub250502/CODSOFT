@@ -114,7 +114,7 @@ This project is a **fully functional scientific calculator** built using **HTML*
 CALCULATOR/
 │
 ├── index.html       # Calculator layout
-├── README.md		   # Task Description
+├── README.md        # Task Description
 ├── style.css        # UI styling and button themes
 └── script.js        # All logic and interactivity
 ```
