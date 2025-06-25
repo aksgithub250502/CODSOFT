@@ -36,14 +36,15 @@ CODESOFT/
 └───TRIBUTE PAGE/
     │
     ├── index.html         # Main HTML file
-	├── README.md		   # Task Description
+    ├── README.md	   # Task Description
     ├── style.css          # CSS styling file
     └── images/            # Folder for images (e.g., ronaldo1.png, ronaldo2.png)
 ```
 ---
 ## 📸 Screenshots
 
-> *(Add screenshots here showing full-page view and mobile view)*
+> ![Output for TRIBUTE PAGE](https://github.com/user-attachments/assets/b65234d7-3330-4453-81f0-846fb8ddca49)
+
 ---
 
 ## 📖 Sections Included
@@ -131,8 +132,11 @@ This task helped me gain deeper understanding of:
 
 ## 🔗 Related Links
 
-* [🔗 LinkedIn Project Post](#) *(Insert link after uploading video/post)*
-* [📁 GitHub Repository](#) *(Insert repo link if hosted publicly)*
+* [🔗 LinkedIn Project Post](#)
+  https://www.linkedin.com/posts/aman-kumar-singh-38552b312_webdevelopment-tributepage-codsoft-activity-7343708857753346048-5DRg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE90ylUBwcjq8qH7XRyXcCi4NETuspeHCHw
+  
+* [📁 GitHub Repository](#)
+  https://github.com/aksgithub250502/CODSOFT/tree/main/TRIBUTE%20PAGE
 ---
 
 ## 👤 Author
