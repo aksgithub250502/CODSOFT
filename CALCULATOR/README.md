@@ -120,7 +120,7 @@ CALCULATOR/
 ```
 
 ## 📸 Screenshot
-> *(Add screenshots here showing full-page view and mobile view)*
+> ![Output for CALCULATOR](https://github.com/user-attachments/assets/e9229093-8e6c-4849-bdbc-77763a7110e4)
 ---
 
 ## 📌 Instructions
